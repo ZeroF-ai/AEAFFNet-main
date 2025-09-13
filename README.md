@@ -121,7 +121,7 @@ Fill in real results after training and evaluation:
 
 |   Method   | FPS | Params (M) | GFLOPs | ImageNet Pretrain | val (mIoU) | test (mIoU) |
 | :--------: | :-: | :--------: | :----: | :---------------: | :--------: | :---------: |
-| AEAFFNet |  84.2 |   23       |  82.8  |         ✓         |    79.1    |    77.9     |
+| AEAFFNet |  84.2 |   23.0       |  82.8  |         ✓         |    79.1    |    77.9     |
 
 ## Notes for Reproducing Experiments
 
