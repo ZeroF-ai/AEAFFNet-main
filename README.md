@@ -130,7 +130,11 @@ Fill in real results after training and evaluation:
 
 ## Citation
 
-If this work is helpful for your research, please cite:
+If you use this code or dataset, please cite our paper:
+
+**"AEAFFNet: Enhancing Real-Time Semantic Segmentation through Attention-Enhanced Adaptive Feature Fusion"**  
+*The Visual Computer*, 2025.  
+DOI: (to appear)
 
 ```
 @misc{aeaffnet2024,
@@ -140,11 +144,3 @@ If this work is helpful for your research, please cite:
   note={Based on mmsegmentation implementation}
 }
 ```
-
-## Contact (Optional)
-
-You may add author emails, affiliations, license info, or contributor notes here.
-
----
-
-*This README is a template. Additional content such as experiment logs, CI badges, ONNX export, FP16 training, or deployment instructions can be added if needed.*
