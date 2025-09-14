@@ -8,12 +8,12 @@ Authors: Shan Zhao, Wenjing Fu, Fukai Zhang, Zhanqiang Huo, Yingxu Qiao
 ## Overview
 
 <p align="left">
-  <img src="figures/0.png" alt="overview-of-our-method" width="500"/>
+  <img src="AEAFFNet.jpg" alt="overview-of-our-method" width="500"/>
 </p>
 
 The network balances inference speed and segmentation accuracy on the Cityscapes dataset (illustrative figure).
 
-## Directory Structure (Example)
+## Directory Structure
 
 ```
 AEAFFNet
@@ -71,10 +71,10 @@ pip install -r requirements.txt
 
 ## Dataset
 
-This repository only uses the Cityscapes dataset for training and evaluation.
+This repository takes the Cityscapes dataset as an example for training and evaluation.
 
 * Download the dataset from the [Cityscapes website](https://www.cityscapes-dataset.com/downloads/) and arrange it under `data/cityscapes` following mmsegmentation requirements.
-* CamVid and Pascal VOC are not included.
+* Other datasets (e.g., CamVid, Pascal VOC) can also be adapted by modifying the configuration and data paths accordingly.
 
 ## Configuration File
 
